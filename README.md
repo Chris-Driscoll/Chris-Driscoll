@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chris-Driscoll
-- 👀 I’m interested in Egyptology and Mathematics
+- 👀 I’m interested in Egyptology, the ancient Egyptian language and Hieroglyphics.
 - 🌱 I’m currently learning Middle Egyptian.
-- 💞️ I’m looking to collaborate on using computers in support of Egyptian grammar, language learning and texts.
+- 💞️ I’m looking to collaborate on using computers and websites in support of Egyptian grammar, language learning and texts.
 - 📫 How to reach me chris.kelly.driscoll@gmail.com or chris.driscoll@mail.utoronto.ca
 
 <!---
